@@ -12,6 +12,13 @@ body {
   margin: auto;
 }
 
+.site-title {
+  font-size: 2em;
+  text-align: center;
+  padding-bottom: 0.5em;
+  border-bottom: 1px solid #ccc;
+}
+
 .list {
   text-align: center;
   padding: 1em 0 0.5em;
@@ -31,4 +38,3 @@ body {
   width: 1.5em;
   text-align: center;
 }
-
