@@ -1,5 +1,5 @@
-# FontAwesome Glyphs
+# Font Awesome Glyphs
 
-Copy FontAwesome Glyphs easily!
+Copy Font Awesome Glyphs easily!
 
 http://ixkaito.github.io/fontawesome-glyphs/
