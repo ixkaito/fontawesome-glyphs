@@ -1,0 +1,34 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 14px;
+  color: #333;
+  margin: 0;
+}
+
+.container {
+  margin: auto;
+}
+
+.list {
+  text-align: center;
+  padding: 1em 0 0.5em;
+  margin: 0;
+}
+
+.list li {
+  display: inline-block;
+  width: 200px;
+  margin-bottom: 0.5em;
+  text-align: left;
+}
+
+.list li .icon {
+  display: inline-block;
+  font-family: 'FontAwesome';
+  width: 1.5em;
+  text-align: center;
+}
+
